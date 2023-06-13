@@ -1,11 +1,11 @@
 # genome-references
 
 ## Variant Callers
-[Mutect2](https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2)- Tumor/normal or tumor only variant calling with local realignment 
-[Vardict](https://github.com/AstraZeneca-NGS/VarDict)- Tumor/normal mode or tumor only
-[Strelka](https://github.com/Illumina/strelka)- Tumor/normal variant calling
-[Neusomatic](https://github.com/bioinform/neusomatic)-Tumor/normal with standalone mode or ensemble calling mode
-[Octopus](https://github.com/luntergroup/octopus)- Tumor/normal or tumor only
+[Mutect2](https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2)- Tumor/normal or tumor only variant calling with local realignment  
+[Vardict](https://github.com/AstraZeneca-NGS/VarDict)- Tumor/normal mode or tumor only  
+[Strelka](https://github.com/Illumina/strelka)- Tumor/normal variant calling  
+[Neusomatic](https://github.com/bioinform/neusomatic)-Tumor/normal with standalone mode or ensemble calling mode  
+[Octopus](https://github.com/luntergroup/octopus)- Tumor/normal or tumor only  
 
 
 ## RNA-Seq Variant Calling Pipelines
