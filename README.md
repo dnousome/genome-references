@@ -1,7 +1,18 @@
 # genome-references
 
 ## Variant Callers
-![Mutect2](https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2)- Tumor/normal or tumor only variant calling with local realignment 
-Strelka- Tumor/normal variant calling
-Vardict- Tumor only or tumor/normal mode![image](https://github.com/dnousome/genome-references/assets/10719976/fe410ce7-8524-4fc3-a516-c20fd9597dc1)
-Neusomatic![image](https://github.com/dnousome/genome-references/assets/10719976/ddb56d33-a329-4587-8eaf-5d4cd0e95a33)
+[Mutect2](https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2)- Tumor/normal or tumor only variant calling with local realignment 
+[Vardict](https://github.com/AstraZeneca-NGS/VarDict)- Tumor/normal mode or tumor only
+[Strelka](https://github.com/Illumina/strelka)- Tumor/normal variant calling
+[Neusomatic](https://github.com/bioinform/neusomatic)-Tumor/normal with standalone mode or ensemble calling mode
+[Octopus](https://github.com/luntergroup/octopus)- Tumor/normal or tumor only
+
+
+## RNA-Seq Variant Calling Pipelines
+[CTAT-RNA-seek](https://github.com/NCIP/ctat-mutations/wiki/ctat_mutations_docker_singularity)  
+[GATK Best Practices](https://gatk.broadinstitute.org/hc/en-us/articles/360035531192-RNAseq-short-variant-discovery-SNPs-Indels-)  
+[Deepvariant Germline RNA-seq ](https://github.com/google/deepvariant/blob/r1.5/docs/deepvariant-rnaseq-case-study.md)  
+
+## scRNA-seq Variant calling
+[cellsnp-lite](https://cellsnp-lite.readthedocs.io/en/latest/snp_list.html)- Uses population databases
+
