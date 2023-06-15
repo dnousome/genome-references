@@ -30,5 +30,5 @@
 [cbSniffer](https://github.com/sridnona/cb_sniffer)  
 
 ### Others
-[Tabular ML for VC](https://github.com/AbbVie-GRC-Methods-Dev/new_normal)
+[Tabular ML for VC](https://github.com/AbbVie-GRC-Methods-Dev/new_normal)  
 [TOSCA](https://github.com/mdelcorvo/TOSCA)- Tumor Only Somatic Calling
